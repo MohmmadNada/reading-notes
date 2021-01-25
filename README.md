@@ -1,14 +1,7 @@
-# reading-notes
-### this is my reading notes
-- first point 
-- 2nd point 
-- 3rd point 
+intro 
+my name mohammad nada , i am a civil Engineer,passion on sofware field 
 
-**bold text**
-__another text__
 
-_italic_
-
-~~i dont need this text~~
-
-`what we get here`
+| lab name  | link |
+| ------------- | ------------- |
+| lab102a  | [my pages](https://mohmmadnada.github.io/reading-notes/)  |
