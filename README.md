@@ -1,13 +1,9 @@
-intro 
-my name mohammad nada , i am a civil Engineer,passion on sofware field 
+I am Civil Engineer , looking to make a mark in Software field.
 
 
-| lab name  | link |
-| ------------- | ------------- |
-| lab01  | [my pages](https://mohmmadnada.github.io/reading-notes/read01/)  |
-| lab102a  | [my pages](https://mohmmadnada.github.io/reading-notes/)  |
-| lab 03a  | [my pages](https://mohmmadnada.github.io/reading-notes/)  |
-| read 03  | [my pages](https://mohmmadnada.github.io/reading-notes/read03)  |
-| read 05  | [my pages](https://mohmmadnada.github.io/read05/)  |
-
-
+| Lab Name       | link |
+| ----------- | ----------- |
+| lab01      | [read01](read01.md)|
+| lab02a   | [read02a](lab02a.md)        |
+|  lab02b      | [read02b](read01.md)|
+|  lab03      | [read03](readme.3.md)|
