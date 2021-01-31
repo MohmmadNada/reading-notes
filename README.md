@@ -9,3 +9,4 @@ I am Civil Engineer , looking to make a mark in Software field.
 |  lab03a      | [read03](readme03.md)|
 |  lab04      | [read04](read04.md)|
 |  lab05      | [read05](read05.md)|
+|  lab06      | [read06](read6.md)|
