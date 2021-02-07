@@ -143,4 +143,13 @@ treated as one single heading.
 
 <figure> , <div> ... etc 
 4. Headers & Footers
-2. 
+
+
+
+
+##The ABC of Programming
+
+A script is a series of instructions
+To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task
+java script runs where it is found in the html.
+If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.
