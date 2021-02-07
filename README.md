@@ -18,7 +18,7 @@
 
 | Lab Name       | link |
 | ----------- | ----------- |
-| read1     | [read1](201/read1.md)| 
+| read1     | [read1](201\read1.md)| 
 | read2     | [read2](201\read2.md)|
 | read3     | [read3](201\read3.md)|
 | read4     | [read4](201\read4.md)|
