@@ -1,5 +1,5 @@
 # Chapter 2
-2## Text in html
+## Text in html
 1. Headings 
 <h1></h1>
 2. Paragraphs
