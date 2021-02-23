@@ -1,5 +1,5 @@
 # Chart.js API
-##with this tools we will 
+## with this tools we will 
 1.  Drawing a line chart
 create a canvas element in our HTML in the bode 
     <canvas id="buyers" width="600" height="400"></canvas>
