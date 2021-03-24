@@ -39,10 +39,10 @@
 
 | Lab Name       | link |
 | ----------- | ----------- |
-| read1    | [read](301\read1)|
+| read1    | [read1](301\read1)|
 | read2     | [read2](301\read2)|
 | read3     | [read3](301\read3)|
-<!-- | read4     | [read4](301\read4)| -->
+| read4     | [read4](301\read4)| 
 <!-- | read5     | [read5](301\read5)| -->
 <!-- | read6     | [read6](301\read6)| -->
 <!-- | read7     | [read7](301\read7)| -->
