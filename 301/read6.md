@@ -1,0 +1,3 @@
+> ## Note: This is a rehash of a reading most of you did in Code 201. There are no points associated with this assignment, but please review this article or, if you've not read it before, read it. These is nothing to submit for this assignment.
+
+[What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
