@@ -44,8 +44,8 @@
 | read4     | [read4](301\read4)| 
 | read5     | [read5](301\read5)|
 | read6     | [read6](301\read6)|
-<!-- | read7     | [read7](301\read7)| -->
-<!-- | read8     | [read8](301\read8)| -->
+| read7     | [read7](301\read7)|
+| read8     | [read8](301\read8)|
 <!-- | read9     | [read9](301\read9)| -->
 <!-- | read10    | [read10](301\read10)| -->
 <!-- | read11    | [read11](301\read11)| -->
