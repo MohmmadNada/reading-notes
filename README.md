@@ -59,5 +59,5 @@
 
 | Lab Name       | link |
 | ----------- | ----------- |
-| read1    | [read1](401\read1)|
-| read2     | [read2](401\read2)|
+| read1    | [read1](401/read1.md)|
+| read2     | [read2](401/read2.md)|
