@@ -61,16 +61,3 @@
 | ----------- | ----------- |
 | read1    | [read1](401\read1)|
 | read2     | [read2](401\read2)|
-<!-- | read3     | [read3](301\read3)| -->
-<!-- | read4     | [read4](301\read4)|  -->
-<!-- | read5     | [read5](301\read5)| -->
-<!-- | read6     | [read6](301\read6)| -->
-<!-- | read7     | [read7](301\read7)| -->
-<!-- | read8     | [read8](301\read8)| -->
-<!-- | read9     | [read9](301\read9)| -->
-<!-- | read10    | [read10](301\read10)| -->
-<!-- | read11    | [read11](301\read11)| -->
-<!-- | read12    | [read12](301\read12)| -->
-<!-- | read13    | [read13](301\read13)| -->
-<!-- | read14a    | [read14a](301\read14a)| -->
-<!-- | read15    | [read15](301\read15)| -->
