@@ -1,7 +1,7 @@
 # Reading Notes
+###  you can check it here [reading live site ](https://mohmmadnada.github.io/reading-notes/) 
 ## *this file for reading notes , ASAC course*
 ### ***Code 102 - Intro to Software Development ***
-
 | Lab Name       | link |
 | ----------- | ----------- |
 | lab01      | [read01](102/read1.md)|
@@ -59,8 +59,8 @@
 
 | Lab Name       | link |
 | ----------- | ----------- |
-<!-- | read1    | [read1](301\read1)| -->
-<!-- | read2     | [read2](301\read2)| -->
+| read1    | [read1](401\read1)|
+| read2     | [read2](401\read2)|
 <!-- | read3     | [read3](301\read3)| -->
 <!-- | read4     | [read4](301\read4)|  -->
 <!-- | read5     | [read5](301\read5)| -->
