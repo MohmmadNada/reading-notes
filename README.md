@@ -59,7 +59,7 @@
 
 | Lab Name       | link |
 | ----------- | ----------- |
-| read1    | [read1](401/read1.md)|
-| read2     | [read2](401/read2.md)|
-| read3     | [read3](401/read3.md)|
-| read4     | [read4](401/read4.md)|
+| Pain vs. Suffering  | [read1](401/read1.md)|
+| Testing and Modules    | [read2](401/read2.md)|
+| FileIO & Exceptions    | [read3](401/read3.md)|
+| Classes and Objects     | [read4](401/read4.md)|
