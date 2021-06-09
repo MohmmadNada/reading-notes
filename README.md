@@ -4,13 +4,13 @@
 ### ***Code 102 - Intro to Software Development ***
 | Lab Name       | link |
 | ----------- | ----------- |
-| lab01      | [read01](102/read1.md)|
-| lab02a   | [read02a](102/lab2a.md)        |
-|  lab02b      | [read02b](102/read05.md)|
-|  lab03a      | [read03](102/readme3.md)|
-|  lab04      | [read04](102/read4.md)|
-|  lab05      | [read05](102/read5.md)|
-|  lab06      | [read06](102/read6.md)|
+| lab01      | [read01](102\read1.md)|
+| lab02a   | [read02a](102\lab2a.md)        |
+|  lab02b      | [read02b](102\read05.md)|
+|  lab03a      | [read03](102\readme3.md)|
+|  lab04      | [read04](102\read4.md)|
+|  lab05      | [read05](102\read5.md)|
+|  lab06      | [read06](102\read6.md)|
 
 ###  ***Code 201 - Foundations of Software Development***
 
