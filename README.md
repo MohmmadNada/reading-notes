@@ -2,7 +2,7 @@
 ###  you can check it here [reading live site ](https://mohmmadnada.github.io/reading-notes/) 
 ## *this file for reading notes , ASAC course*
 ### ***Code 102 - Intro to Software Development ***
-| Lab Name       | link |
+| Lab Name   | link |
 | ----------- | ----------- |
 | lab01      | [read01](102\read1.md)|
 | lab02a   | [read02a](102\lab2a.md)        |
