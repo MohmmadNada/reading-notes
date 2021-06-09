@@ -63,4 +63,4 @@
 | Testing and Modules    | [read2](401/read2.md)|
 | FileIO & Exceptions    | [read3](401/read3.md)|
 | Classes and Objects     | [read4](401/read4.md)|
-| Lamda     | [read4](401/read5.md)|
+| Linked Lists     | [read5](401/read5.md)|
