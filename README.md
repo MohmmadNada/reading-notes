@@ -65,3 +65,4 @@
 | Classes and Objects     | [read4](401/read4.md)|
 | Linked Lists     | [read5](401/read5.md)|
 |Game of Greed 1     | [read6](401/read6.md)|
+|Game of Greed 2     | [read7](401/read7.md)|
