@@ -68,3 +68,4 @@
 |Game of Greed 2     | [read7](401/read7.md)|
 |Game of Greed 3     | [read8](401/read8.md)|
 |Game of Greed 4     | [read9](401/read9.md)|
+|Stacks and Queues     | [read10](401/read10.md)|
