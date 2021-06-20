@@ -70,3 +70,4 @@
 |Game of Greed 4     | [read9](401/read9.md)|
 |Stacks and Queues     | [read10](401/read10.md)|
 |Data Analysis     | [read11](401/read11.md)|
+|Pandas in 10     | [read12](401/read12.md)|
