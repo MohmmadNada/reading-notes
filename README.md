@@ -72,3 +72,4 @@
 |Data Analysis     | [read11](401/read11.md)|
 |Pandas in 10     | [read12](401/read12.md)|
 |Linear Regressions   | [read13](401/read13.md)|
+|Data Visualization   | [read14](401/read14.md)|
