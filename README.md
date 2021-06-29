@@ -77,3 +77,4 @@
 |Machine Learning Intro   | [read16](401/read16.md)|
 |Web Scraping  | [read17](401/read17.md)|
 |Cryptography  | [read18](401/read18.md)|
+|Automation  | [read19](401/read19.md)|
