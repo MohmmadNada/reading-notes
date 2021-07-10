@@ -78,3 +78,4 @@
 |Web Scraping  | [read17](401/read17.md)|
 |Cryptography  | [read18](401/read18.md)|
 |Automation  | [read19](401/read19.md)|
+|Intro to Django  | [read26](401/read26.md)|
