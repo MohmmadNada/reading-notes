@@ -79,4 +79,5 @@
 |Cryptography  | [read18](401/read18.md)|
 |Automation  | [read19](401/read19.md)|
 |Intro to Django  | [read26](401/read26.md)|
-|Django CRUD and Forms  | [read27](401/read27.md)|
+| Django Models  | [read27](401/read27.md)|
+|Django CRUD and Forms  | [read28](401/read28.md)|
