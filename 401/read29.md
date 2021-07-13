@@ -125,67 +125,67 @@ Then create four templates:
 Update the files as follows:
 
 ```
-<!-- templates/base.html -->
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>{% block title %}Django Auth Tutorial{% endblock %}</title>
-</head>
-<body>
-  <main>
-    {% block content %}
-    {% endblock %}
-  </main>
-</body>
-</html>
+    <!-- templates/base.html -->
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <meta charset="utf-8">
+    <title>{% block title %}Django Auth Tutorial{% endblock %}</title>
+    </head>
+    <body>
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+    </body>
+    </html>
 ```
 ```
 <!-- templates/home.html -->
-{% extends 'base.html' %}
+    {% extends 'base.html' %}
 
-{% block title %}Home{% endblock %}
+    {% block title %}Home{% endblock %}
 
-{% block content %}
-{% if user.is_authenticated %}
-  Hi {{ user.username }}!
-  <p><a href="{% url 'logout' %}">Log Out</a></p>
-{% else %}
-  <p>You are not logged in</p>
-  <a href="{% url 'login' %}">Log In</a> |
-  <a href="{% url 'signup' %}">Sign Up</a>
-{% endif %}
-{% endblock %}
+    {% block content %}
+    {% if user.is_authenticated %}
+    Hi {{ user.username }}!
+    <p><a href="{% url 'logout' %}">Log Out</a></p>
+    {% else %}
+    <p>You are not logged in</p>
+    <a href="{% url 'login' %}">Log In</a> |
+    <a href="{% url 'signup' %}">Sign Up</a>
+    {% endif %}
+    {% endblock %}
 ```
 ```
-<!-- templates/registration/login.html -->
-{% extends 'base.html' %}
+    <!-- templates/registration/login.html -->
+    {% extends 'base.html' %}
 
-{% block title %}Log In{% endblock %}
+    {% block title %}Log In{% endblock %}
 
-{% block content %}
-<h2>Log In</h2>
-<form method="post">
-  {% csrf_token %}
-  {{ form.as_p }}
-  <button type="submit">Log In</button>
-</form>
-{% endblock %}
+    {% block content %}
+    <h2>Log In</h2>
+    <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Log In</button>
+    </form>
+    {% endblock %}
 ```
 ```
-<!-- templates/registration/signup.html -->
-{% extends 'base.html' %}
+    <!-- templates/registration/signup.html -->
+    {% extends 'base.html' %}
 
-{% block title %}Sign Up{% endblock %}
+    {% block title %}Sign Up{% endblock %}
 
-{% block content %}
-<h2>Sign Up</h2>
-<form method="post">
-  {% csrf_token %}
-  {{ form.as_p }}
-  <button type="submit">Sign Up</button>
-</form>
-{% endblock %}
+    {% block content %}
+    <h2>Sign Up</h2>
+    <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Sign Up</button>
+    </form>
+    {% endblock %}
 ```
 Now for our urls.py files at the project and app level.
 
