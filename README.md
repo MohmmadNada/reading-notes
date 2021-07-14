@@ -82,3 +82,4 @@
 | Django Models  | [read27](401/read27.md)|
 |Django CRUD and Forms  | [read28](401/read28.md)|
 |Django Custom User     | [read29](401/read29.md)|
+|Hashtables     | [read30](401/read30.md)|
