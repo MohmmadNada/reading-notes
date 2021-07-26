@@ -1,4 +1,4 @@
-# Django REST Framework & Docker **7:45 pm**
+# Django REST Framework & Docker
 Docker :  way to isolate and run entire applications. The entire development environment is isolated: programming language, software packages, databases, and more. production environment locally;can be shared among team members so everyone is working on the same setup.
 
 ## Linux Containers
