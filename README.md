@@ -85,3 +85,5 @@
 |Hashtables     | [read30](401/read30.md)|
 |Django REST Framework & Docker| [read31](401/read31.md)|
 |Permissions & Postgresql| [read32](401/read32.md)|
+|Authentication & Production Server| [read33](401/read33.md)|
+|API Deployment| [read34](401/read34.md)|
