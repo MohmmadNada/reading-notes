@@ -295,3 +295,26 @@ function Avatar(props) {
 The Avatar doesn’t need to know that it is being rendered inside a Comment. This is why we have given its prop a more generic name: user rather than author.
 
 ### Props are Read-Only
+React has a single strict rule:
+* All React components must act like pure functions with respect to their props.
+
+Resources :
+1. ES6 Overview
+
+   * [ES6 Syntax and Feature Overview](https://www.taniarascia.com/es6-syntax-and-feature-overview/)
+2. React
+   1. [React - Hello World](https://reactjs.org/docs/hello-world.html)
+   2. [React - JSX](https://reactjs.org/docs/introducing-jsx.html)
+   3. [React - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+   4. [React - Components & Props](https://reactjs.org/docs/components-and-props.html)
+   5. [React - State & Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+   6. [React - Handling Events](https://reactjs.org/docs/handling-events.html)
+
+3. Tailwind CSS
+1. [Utility First CSS](https://tailwindcss.com/docs/utility-first)
+2. [Tailwind in 15 minutes](https://www.youtube.com/watch?v=6zIuAyLZPH0)
+
+4. Next.js
+   1. [Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
+   2. [Why to use Next.js](https://www.youtube.com/watch?v=rtgbaKBhdkk)
+    
