@@ -32,3 +32,10 @@ Then, run the following command:
 
 `Then, run the following command:`
 Then, run the following command:
+
+
+Resources:
+https://nextjs.org/learn/basics/create-nextjs-app
+> Through Assets, Metadata, and CSS section.
+https://www.youtube.com/watch?v=rtgbaKBhdkk
+https://github.com/vercel/next.js/tree/canary/examples
