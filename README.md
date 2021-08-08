@@ -94,5 +94,6 @@
 |React 3| [Read39 ](401/read39.md)|
 |React 4| [Read41 ](401/read41.md)|
 |Pythonism| [Read42 ](401/read42.md)|
+|Ethics in Tech| [Read43 ](401/read43.md)|
 
 
